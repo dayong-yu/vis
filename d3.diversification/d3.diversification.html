@@ -69,8 +69,10 @@ text {
 
 <!-- <aside>Mouseover the year to move forward and backwards through time.</aside> -->
 <footer>
+ It shows the dynamic change in GDP (x), diversification indicator (y) and export value (radius) of
+ 140 WTO members in 1998-2014. Members are colored by geographic region; mouseover to read their names.
+<br><br>
   Based on
-
   <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>'s D3 recreation of Hans Roslings'
   <a href="http://www.youtube.com/watch?v=jbkSRLYSojo" rel="author">"Health and Wealth of Nations"</a>
 </footer>
@@ -79,9 +81,9 @@ text {
 <script>
 
 // Various accessors that specify the four dimensions of data to visualize.
-function x(d) { return d.income; }
-function y(d) { return d.lifeExpectancy; }
-function radius(d) { return d.population; }
+function x(d) { return d.xx; }
+function y(d) { return d.yy; }
+function radius(d) { return d.rr; }
 function color(d) { return d.region; }
 function key(d) { return d.name; }
 
@@ -262,9 +264,9 @@ d3.json("d3.wealthofnations.json", function(nations) {
       return {
         name: d.name,
         region: d.region,
-        income: interpolateValues(d.income, year),
-        population: interpolateValues(d.population, year),
-        lifeExpectancy: interpolateValues(d.lifeExpectancy, year)
+        xx: interpolateValues(d.xx, year),
+        rr: interpolateValues(d.rr, year),
+        yy: interpolateValues(d.yy, year)
       };
     });
   }
