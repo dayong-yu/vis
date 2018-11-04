@@ -9,6 +9,7 @@
 #chart {
   margin-left: -40px;
   height: 506px;
+  height: 600px;
 }
 
 text {
@@ -70,7 +71,8 @@ text {
 <!-- <aside>Mouseover the year to move forward and backwards through time.</aside> -->
 <footer>
  It shows the dynamic change in GDP (x), diversification indicator (y) and export value (radius) of
- 140 WTO members in 1998-2014. Members are colored by geographic region; mouseover to read their names.
+ 140 WTO members in 1998-2014. Members are colored by geographic region. Mouseover to read their names.
+ Move mouse to show individual years.
 <br><br>
   Based on
   <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>'s D3 recreation of Hans Roslings'
@@ -92,8 +94,8 @@ var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
     // width = 960 - margin.right,
     // height = 500 - margin.top - margin.bottom;
     //DY
-    width = 960 - margin.right,
-    height = 550 - margin.top - margin.bottom;
+    width = 800 - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 
 // Various scales. These domains make assumptions of data, naturally.
@@ -108,17 +110,17 @@ var xScale = d3.scale.log().domain([1e8, 1e14]).range([0, width]),
     // yScale = d3.scale.linear().domain([10, 85]).range([height, 0]),
     // radiusScale = d3.scale.log().base(Math.E).domain([1, 5000]).range([0, 10]),
     // DY
-    radiusScale = d3.scale.linear().domain([400,1300000]).range([3, 30]),
+    radiusScale = d3.scale.linear().domain([400,1300000]).range([2, 50]),
 
 
     // radiusScale = d3.scale.sqrt().domain([0, 5e8]).range([0, 2000]),
     colorScale = d3.scale.category20();
 
 // The x & y axes.
-var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d")),
-    yAxis = d3.svg.axis().scale(yScale).orient("left");
+// var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d")),
+//     yAxis = d3.svg.axis().scale(yScale).orient("left");
 // DY
-var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(1, d3.format(",d")),
+var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(1, d3.format(",e")),
     yAxis = d3.svg.axis().scale(yScale).orient("left");
 
 
