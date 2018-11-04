@@ -60,18 +60,19 @@ text {
 .en-markup-crop-options div div:first-of-type {
     margin-left: 0px !important;
 }
-</style></head><body><header>
+</style></head><body>
+<!-- <header>
   November 5, 2018
-</header>
+</header> -->
 <h2>Product diversification, size of economy and export value</h2>
 <p id="chart"></p>
-<!-- <aside>Mouseover the year to move forward and backwards through time.</aside> -->
+<aside>Mouseover the year to move forward and backwards through time.</aside>
 <footer>
  It shows the dynamic change in GDP (x), diversification indicator (y) and export value (radius) of
  140 WTO members in 1998-2014. Members are colored by geographic region. Mouseover to read their names.
  Move mouse to show individual years.
 <br><br>
-  Based on
+  November 5, 2018. Based on
   <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>'s D3 recreation of Hans Roslings'
   <a href="http://www.youtube.com/watch?v=jbkSRLYSojo" rel="author">"Health and Wealth of Nations"</a>
 </footer>
@@ -91,7 +92,7 @@ function key(d) { return d.name; }
     // width = 960 - margin.right,
     // height = 500 - margin.top - margin.bottom;
     //DY
-var margin = {top: 47.5, right: 19.5, bottom: 19.5, left: 39.5},
+var margin = {top: 48, right: 19.5, bottom: 19.5, left: 39.5},
 
     width = 800 - margin.right,
     height = 600 - margin.top - margin.bottom;
