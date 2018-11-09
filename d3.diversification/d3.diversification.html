@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0035)https://bost.ocks.org/mike/nations/ -->
 <html class="ocks-org do-not-copy"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>The Wealth &amp; Health of Nations</title>
+<title>Export Diversification</title>
 <style>
 
 @import url(https://bost.ocks.org/mike/style.css?aea6f0a);
@@ -60,10 +60,9 @@ text {
 .en-markup-crop-options div div:first-of-type {
     margin-left: 0px !important;
 }
-</style></head><body>
-<!-- <header>
-  November 5, 2018
-</header> -->
+</style>
+</head>
+<body>
 <h2>Product diversification, size of economy and export value</h2>
 <p id="chart"></p>
 <aside>Mouseover the year to move forward and backwards through time.</aside>
@@ -72,14 +71,13 @@ text {
  140 WTO members in 1998-2014. Members are colored by geographic region. Mouseover to read their names.
  Move mouse to show individual years.
 <br><br>
-  November 5, 2018. Based on
+  Dayong Yu, November 5, 2018, based on
   <a href="https://bost.ocks.org/mike/" rel="author">Mike Bostock</a>'s D3 recreation of Hans Roslings'
   <a href="http://www.youtube.com/watch?v=jbkSRLYSojo" rel="author">"Health and Wealth of Nations"</a>
 </footer>
 
 <script src="./d3.wealthofnations/d3.v3.min.js.download" charset="utf-8"></script>
 <script>
-
 // Various accessors that specify the four dimensions of data to visualize.
 function x(d) { return d.xx; }
 function y(d) { return d.yy; }
@@ -168,7 +166,7 @@ var label = svg.append("text")
     .text(1996);
 
 // Load the data.
-d3.json("d3.wealthofnations.json", function(nations) {
+d3.json("d3.diversification.json", function(nations) {
 
   // A bisector since many nation's data is sparsely-defined.
   var bisect = d3.bisector(function(d) { return d[0]; });
