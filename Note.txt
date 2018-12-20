@@ -1,0 +1,3 @@
+Use Firefox instead of Chrome, because chrome need a server to open the data files.
+
+Different visualizations stay in seperate files, because they may depend on different d3 version and other environment varibles.

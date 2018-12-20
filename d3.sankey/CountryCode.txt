@@ -1,0 +1,330 @@
+WTO Country Code,Is Active,Name,Display Order,ISO-3A,ISO-2A,ISO-3N,Start Date,End Date,Code Prefix,Code,G20,EU,Quad,CountryType
+C231,Y,Ethiopia,1170,ETH,ET,231,01/01/1993 00:00,,C,231,,,,O
+C232,Y,Eritrea,1150,ERI,ER,232,01/01/1993 00:00,,C,232,,,,O
+C233,Y,Estonia,1160,EST,EE,233,01/01/1992 00:00,,C,233,,Y,,O
+C234,Y,Faeroe Islands,1270,FRO,FO,234,,,C,234,,,,O
+C238,Y,Falkland Islands (Islas Malvinas),1280,FLK,FK,238,,,C,238,,,,O
+C239,Y,South Georgia and the South Sandwich Islands,2940,SGS,GS,239,,,C,239,,,,O
+C242,Y,Fiji,1290,FJI,FJ,242,,,C,242,,,,O
+C246,Y,Finland,1300,FIN,FI,246,,,C,246,,Y,,O
+C250,Y,France,1310,FRA,FR,250,,,C,250,Y,,,G
+C252,Y,French Antilles,1340,,,,,,C,252,,,,O
+C255,Y,French Oceania,1360,,,,,,C,255,,,,O
+C258,Y,French Polynesia,1370,PYF,PF,258,,,C,258,,,,O
+C260,Y,French Southern Territories,1380,ATF,TF,260,,,C,260,,,,O
+C262,Y,Djibouti,980,DJI,DJ,262,,,C,262,,,,O
+C266,Y,Gabon,1400,GAB,GA,266,,,C,266,,,,O
+C268,Y,Georgia,1410,GEO,GE,268,01/01/1992 00:00,,C,268,,,,O
+C270,Y,The Gambia,3160,GMB,GM,270,,,C,270,,,,O
+C275,Y,Palestine,2510,PSE,PS,,01/01/1998 00:00,,C,275,,,,O
+C276,Y,Germany,1430,DEU,DE,276,01/01/1991 00:00,,C,276,Y,Y,,G
+C288,Y,Ghana,1450,GHA,GH,288,,,C,288,,,,O
+C292,Y,Gibraltar,1460,GIB,GI,292,,,C,292,,,,O
+C296,Y,Kiribati,1750,KIR,KI,296,,,C,296,,,,O
+C300,Y,Greece,1470,GRC,GR,300,,,C,300,,Y,,O
+C304,Y,Greenland,1480,GRL,GL,304,,,C,304,,,,O
+C308,Y,Grenada,1490,GRD,GD,308,,,C,308,,,,O
+C316,Y,Guam,1510,GUM,GU,316,,,C,316,,,,O
+C320,Y,Guatemala,1520,GTM,GT,320,,,C,320,,,,O
+C321,Y,Guernsey,1521,GGY,GG,831,,,C,321,,,,O
+C324,Y,Guinea,1530,GIN,GN,324,,,C,324,,,,O
+C328,Y,Guyana,1550,GUY,GY,328,,,C,328,,,,O
+C332,Y,Haiti,1560,HTI,HT,332,,,C,332,,,,O
+C334,Y,Heard Island and Mcdonald Islands,1570,HMD,HM,334,,,C,334,,,,O
+C336,Y,Holy See,1580,VAT,VA,336,,,C,336,,,,O
+C340,Y,Honduras,1590,HND,HN,340,,,C,340,,,,O
+C344,Y,"Hong Kong, China",1600,HKG,HK,344,,,C,344,,,,O
+C348,Y,Hungary,1610,HUN,HU,348,,,C,348,,Y,,O
+C352,Y,Iceland,1620,ISL,IS,352,,,C,352,,,,O
+C356,Y,India,1630,IND,IN,356,,,C,356,Y,,,G
+C360,Y,Indonesia,1640,IDN,ID,360,,,C,360,Y,,,G
+C364,Y,Iran,1650,IRN,IR,364,,,C,364,,,,O
+C368,Y,Iraq,1660,IRQ,IQ,368,,,C,368,,,,O
+C372,Y,Ireland,1670,IRL,IE,372,,,C,372,,Y,,O
+C376,Y,Israel,1680,ISR,IL,376,,,C,376,,,,O
+C380,Y,Italy,1690,ITA,IT,380,,,C,380,Y,Y,,G
+C384,Y,Côte d'Ivoire,810,CIV,CI,384,,,C,384,,,,O
+C388,Y,Jamaica,1700,JAM,JM,388,,,C,388,,,,O
+C392,Y,Japan,1710,JPN,JP,392,,,C,392,Y,,Y,Q
+C393,Y,Jersey,1711,JEY,JE,832,,,C,393,,,,O
+C398,Y,Kazakhstan,1730,KAZ,KZ,398,01/01/1992 00:00,,C,398,,,,O
+C400,Y,Jordan,1720,JOR,JO,400,,,C,400,,,,O
+C404,Y,Kenya,1740,KEN,KE,404,,,C,404,,,,O
+C408,Y,"Korea, Democratic People's Republic of",1760,PRK,KP,408,,,C,408,,,,O
+C410,Y,"Korea, Republic of",1770,KOR,KR,410,,,C,410,Y,,,G
+C414,Y,"Kuwait, the State of",1780,KWT,KW,414,,,C,414,,,,O
+C417,Y,Kyrgyz Republic,1790,KGZ,KG,417,01/01/1992 00:00,,C,417,,,,O
+C418,Y,Lao People's Democratic Republic,1800,LAO,LA,418,,,C,418,,,,O
+C422,Y,Lebanese Republic,1840,LBN,LB,422,,,C,422,,,,O
+C426,Y,Lesotho,1850,LSO,LS,426,,,C,426,,,,O
+C428,Y,Latvia,1820,LVA,LV,428,01/01/1992 00:00,,C,428,,Y,,O
+C430,Y,"Liberia, Republic of",1860,LBR,LR,430,,,C,430,,,,O
+C434,Y,Libya,1870,LBY,LY,434,,,C,434,,,,O
+C438,Y,Liechtenstein,1880,LIE,LI,438,,,C,438,,,,O
+C440,Y,Lithuania,1890,LTU,LT,440,01/01/1992 00:00,,C,440,,Y,,O
+C442,Y,Luxembourg,1900,LUX,LU,442,,,C,442,,Y,,O
+C446,Y,"Macao, China",1910,MAC,MO,446,,,C,446,,,,O
+C450,Y,Madagascar,1920,MDG,MG,450,,,C,450,,,,O
+C454,Y,Malawi,1930,MWI,MW,454,,,C,454,,,,O
+C458,Y,Malaysia,1950,MYS,MY,458,01/01/1964 00:00,,C,458,,,,O
+C462,Y,Maldives,1960,MDV,MV,462,,,C,462,,,,O
+C466,Y,Mali,1970,MLI,ML,466,,,C,466,,,,O
+C470,Y,Malta,1980,MLT,MT,470,,,C,470,,Y,,O
+C471,Y,Isle of Man,1981,IMN,IM,833,,,C,471,,,,O
+C478,Y,Mauritania,2010,MRT,MR,478,,,C,478,,,,O
+C480,Y,Mauritius,2020,MUS,MU,480,,,C,480,,,,O
+C484,Y,Mexico,2050,MEX,MX,484,,,C,484,Y,,,G
+C492,Y,Monaco,2100,MCO,MC,492,,,C,492,,Y,,O
+C496,Y,Mongolia,2110,MNG,MN,496,,,C,496,,,,O
+C498,Y,"Moldova, Republic of",2090,MDA,MD,498,01/01/1992 00:00,,C,498,,,,O
+C500,Y,Montserrat,2130,MSR,MS,500,,,C,500,,,,O
+C504,Y,Morocco,2140,MAR,MA,504,,,C,504,,,,O
+C508,Y,Mozambique,2150,MOZ,MZ,508,,,C,508,,,,O
+C512,Y,Oman,2390,OMN,OM,512,,,C,512,,,,O
+C516,Y,Namibia,2170,NAM,NA,516,,,C,516,,,,O
+C520,Y,Nauru,2180,NRU,NR,520,,,C,520,,,,O
+C524,Y,Nepal,2190,NPL,NP,524,,,C,524,,,,O
+C528,Y,Netherlands,2200,NLD,NL,528,,,C,528,,Y,,O
+C530,Y,Netherlands Antilles,2210,ANT,AN,530,01/01/1996 00:00,,C,530,,,,O
+C531,Y,Curacao,850,CUW,CW,531,10/10/2010 00:00,,C,531,,,,O
+C532,Y,Netherlands Antilles (incl. Aruba),2211,,,,,,C,532,,,,O
+C533,Y,"Aruba, the Netherlands with respect to",160,ABW,AW,533,01/01/1988 00:00,,C,533,,,,O
+C534,Y,Saint Martin,2710,SXM,SX,534,10/10/2010 00:00,,C,534,,,,O
+C536,Y,Neutral Zone,2220,,,,,,C,536,,,,O
+C540,Y,New Caledonia,2230,NCL,NC,540,,,C,540,,,,O
+C548,Y,Vanuatu,3440,VUT,VU,548,,,C,548,,,,O
+C554,Y,New Zealand,2240,NZL,NZ,554,,,C,554,,,,O
+C558,Y,Nicaragua,2260,NIC,NI,558,,,C,558,,,,O
+C562,Y,Niger,2270,NER,NE,562,,,C,562,,,,O
+C566,Y,Nigeria,2280,NGA,NG,566,,,C,566,,,,O
+C570,Y,Niue,2290,NIU,NU,570,,,C,570,,,,O
+C574,Y,Norfolk Island,2300,NFK,NF,574,,,C,574,,,,O
+C578,Y,Norway,2360,NOR,NO,578,,,C,578,,,,O
+C580,Y,Northern Mariana Islands,2340,MNP,MP,580,,,C,580,,,,O
+C581,Y,United States Minor Outlying Islands,3370,UMI,UM,581,,,C,581,,,,O
+C583,Y,"Micronesia, Federated States of",2060,FSM,FM,583,,,C,583,,,,O
+C584,Y,Marshall Islands,1990,MHL,MH,584,,,C,584,,,,O
+C585,Y,Palau,2500,PLW,PW,585,,,C,585,,,,O
+C586,Y,Pakistan,2490,PAK,PK,586,,,C,586,,,,O
+C591,Y,Panama,2520,PAN,PA,591,01/01/1996 00:00,,C,591,,,,O
+C598,Y,Papua New Guinea,2540,PNG,PG,598,,,C,598,,,,O
+C600,Y,Paraguay,2550,PRY,PY,600,,,C,600,,,,O
+C601,Y,Trust Territory of the Pacific Islands,3230,,,,,,C,601,,,,O
+C604,Y,Peru,2560,PER,PE,604,,,C,604,,,,O
+C608,Y,Philippines,2570,PHL,PH,608,,,C,608,,,,O
+C612,Y,Pitcairn,2580,PCN,PN,612,,,C,612,,,,O
+C616,Y,Poland,2590,POL,PL,616,,,C,616,,Y,,O
+C620,Y,Portugal,2600,PRT,PT,620,,,C,620,,Y,,O
+C624,Y,Guinea-Bissau,1540,GNB,GW,624,,,C,624,,,,O
+C626,Y,Timor-Leste,3170,TLS,TL,626,,,C,626,,,,O
+C630,Y,Puerto Rico,2610,PRI,PR,630,,,C,630,,,,O
+C634,Y,Qatar,2620,QAT,QA,634,,,C,634,,,,O
+C642,Y,Romania,2650,ROM,RO,642,,,C,642,,Y,,O
+C643,Y,Russian Federation,2660,RUS,RU,643,01/01/1992 00:00,,C,643,Y,,,G
+C646,Y,Rwanda,2670,RWA,RW,646,,,C,646,,,,O
+C654,Y,Saint Helena,2680,SHN,SH,654,,,C,654,,,,O
+C659,Y,Saint Kitts and Nevis,2690,KNA,KN,659,01/01/1981 00:00,,C,659,,,,O
+C660,Y,Anguilla,110,AIA,AI,660,01/01/1981 00:00,,C,660,,,,O
+C662,Y,Saint Lucia,2700,LCA,LC,662,,,C,662,,,,O
+C666,Y,Saint Pierre and Miquelon,2720,SPM,PM,666,,,C,666,,,,O
+C670,Y,Saint Vincent and the Grenadines,2730,VCT,VC,670,,,C,670,,,,O
+C674,Y,San Marino,2750,SMR,SM,674,,,C,674,,,,O
+C678,Y,Sao Tome and Principe,2760,STP,ST,678,,,C,678,,,,O
+C682,Y,"Saudi Arabia, Kingdom of",2770,SAU,SA,682,,,C,682,Y,,,G
+C686,Y,Senegal,2780,SEN,SN,686,,,C,686,,,,O
+C690,Y,Seychelles,2810,SYC,SC,690,,,C,690,,,,O
+C694,Y,Sierra Leone,2820,SLE,SL,694,,,C,694,,,,O
+C702,Y,Singapore,2830,SGP,SG,702,,,C,702,,,,O
+C703,Y,Slovak Republic,2840,SVK,SK,703,01/01/1993 00:00,,C,703,,Y,,O
+C704,Y,Viet Nam,3470,VNM,VN,704,,,C,704,,,,O
+C705,Y,Slovenia,2850,SVN,SI,705,01/01/1992 00:00,,C,705,,Y,,O
+C706,Y,Somalia,2870,SOM,SO,706,,,C,706,,,,O
+C710,Y,South Africa,2890,ZAF,ZA,710,,,C,710,Y,,,G
+C716,Y,Zimbabwe,3690,ZWE,ZW,716,01/01/1980 00:00,,C,716,,,,O
+C724,Y,Spain,3010,ESP,ES,724,,,C,724,,Y,,O
+C728,Y,South Sudan,2950,SSD,SS,728,09/07/2011 00:00,,C,728,,,,O
+C732,Y,Western Sahara,3570,ESH,EH,732,,,C,732,,,,O
+C736,Y,Sudan,3040,SDN,SD,729,,,C,736,,,,O
+C740,Y,Suriname,3050,SUR,SR,740,,,C,740,,,,O
+C744,Y,Svalbard and Jan Mayen,3060,SJM,SJ,744,,,C,744,,,,O
+C748,Y,Swaziland,3070,SWZ,SZ,748,,,C,748,,,,O
+C752,Y,Sweden,3080,SWE,SE,752,,,C,752,,Y,,O
+C756,Y,Switzerland,3090,CHE,CH,756,,,C,756,,,,O
+C760,Y,Syrian Arab Republic,3100,SYR,SY,760,,,C,760,,,,O
+C762,Y,Tajikistan,3120,TJK,TJ,762,01/01/1992 00:00,,C,762,,,,O
+C764,Y,Thailand,3140,THA,TH,764,,,C,764,,,,O
+C768,Y,Togo,3180,TGO,TG,768,,,C,768,,,,O
+C772,Y,Tokelau,3190,TKL,TK,772,,,C,772,,,,O
+C776,Y,Tonga,3200,TON,TO,776,,,C,776,,,,O
+C780,Y,Trinidad and Tobago,3220,TTO,TT,780,,,C,780,,,,O
+C784,Y,United Arab Emirates,3340,ARE,AE,784,,,C,784,,,,O
+C788,Y,Tunisia,3240,TUN,TN,788,,,C,788,,,,O
+C792,Y,Turkey,3250,TUR,TR,792,,,C,792,Y,,,G
+C795,Y,Turkmenistan,3260,TKM,TM,795,01/01/1992 00:00,,C,795,,,,O
+C796,Y,Turks and Caicos Islands,3270,TCA,TC,796,,,C,796,,,,O
+C798,Y,Tuvalu,3280,TUV,TV,798,,,C,798,,,,O
+C800,Y,Uganda,3310,UGA,UG,800,,,C,800,,,,O
+C804,Y,Ukraine,3320,UKR,UA,804,01/01/1992 00:00,,C,804,,,,O
+C807,Y,The former Yugoslav Republic of Macedonia,3150,MKD,MK,807,,,C,807,,,,O
+C818,Y,Egypt,1120,EGY,EG,818,,,C,818,,,,O
+C826,Y,United Kingdom,3360,GBR,GB,826,,,C,826,Y,Y,,G
+C834,Y,Tanzania,3130,TZA,TZ,834,01/01/1965 00:00,,C,834,,,,O
+C840,Y,United States of America,3380,USA,US,840,,,C,840,Y,,Y,Q
+C850,Y,"Virgin Islands, US",3500,VIR,VI,850,,,C,850,,,,O
+C854,Y,Burkina Faso,460,BFA,BF,854,,,C,854,,,,O
+C858,Y,Uruguay,3420,URY,UY,858,,,C,858,,,,O
+C860,Y,Uzbekistan,3430,UZB,UZ,860,01/01/1992 00:00,,C,860,,,,O
+C862,Y,"Venezuela, Bolivarian Republic of",3460,VEN,VE,862,,,C,862,,,,O
+C876,Y,Wallis and Futuna Islands,3510,WLF,WF,876,,,C,876,,,,O
+C882,Y,Samoa,2740,WSM,WS,882,,,C,882,,,,O
+C887,Y,Yemen,3620,YEM,YE,887,01/01/1991 00:00,,C,887,,,,O
+C888,Y,UNMIK/Kosovo,3390,,,,,,C,888,,,,O
+C892,Y,Serbia,2790,SRB,RS,688,05/06/2006 00:00,,C,892,,,,O
+C893,Y,Montenegro,2120,MNE,ME,499,03/06/2006 00:00,,C,893,,,,O
+C894,Y,Zambia,3670,ZMB,ZM,894,01/01/1965 00:00,,C,894,,,,O
+C899,Y,European Union,1250,EEC,CE,,,,C,899,,,,O
+F914,Y,Central European Free Trade Agreement (CEFTA),620,,,,01/03/1993 00:00,,F,914,,,,O
+F923,Y,European Free Trade Association (EFTA),1230,,,,01/01/1995 00:00,,F,923,,,,O
+F936,Y,Latin American Integration Association (ALADI),1810,,,,,,F,936,,,,O
+F937,Y,Andean Community (ANDEAN),80,,,,,,F,937,,,,O
+F938,Y,Central American Common Market (CACM),610,,,,,,F,938,,,,O
+F939,Y,Southern Common Market (MERCOSUR),2990,,,,,,F,939,,,,O
+F940,Y,North American Free Trade Agreement (NAFTA),2330,,,,,,F,940,,,,O
+F941,Y,Caribbean Community (CARICOM),550,,,,,,F,941,,,,O
+F957,Y,West African Economic and Monetary Union (WAEMU),3530,,,,,,F,957,,,,O
+F958,Y,Common Market for Eastern and Southern Africa (COMESA),710,,,,,,F,958,,,,O
+F959,Y,West African Economic Community (ECOWAS),3540,,,,,,F,959,,,,O
+F961,Y,Southern African Development Community (SADC),2980,,,,,,F,961,,,,O
+F962,Y,"African, Caribbean and Pacific States (ACP)",30,,,,,,F,962,,,,O
+F963,Y,East African Community (EAC),1080,,,,,,F,963,,,,O
+F964,Y,Central African Economic and Monetary Community (CAEMC),580,,,,,,F,964,,,,O
+F966,Y,Cooperation Council for the Arab States of the Gulf (GCC),790,,,,,,F,966,,,,O
+F975,Y,Association of Southeast Asian Nations (ASEAN),190,,,,,,F,975,,,,O
+F976,Y,South Asian Preferential Trading Arrangement (SAPTA),2930,,,,,,F,976,,,,O
+F977,Y,South Asian Association for Regional Cooperation (SAARC),2920,,,,,,F,977,,,,O
+F980,Y,Asia-Pacific Economic Cooperation (APEC),180,,,,,,F,980,,,,O
+G905,Y,Europe,1190,,,,,,G,905,,,,O
+G910,Y,Commonwealth of Independent States (CIS),730,,,,,,G,910,,,,O
+G931,Y,North America,2320,,,,,,G,931,,,,O
+G932,Y,South and Central America and the Caribbean,2910,,,,,,G,932,,,,O
+G950,Y,Africa,20,,,,,,G,950,,,,O
+G965,Y,Middle East,2070,,,,,,G,965,,,,O
+G970,Y,Asia,170,,,,,,G,970,,,,O
+N002,Y,"Other America, n.e.s.",2410,,,,,,N,2,,,,O
+N006,Y,"Other Africa, n.e.s.",2400,,,,,,N,6,,,,O
+N030,Y,"Middle East, n.e.s.",2080,,,,,,N,30,,,,O
+N033,Y,"Other Asia, n.e.s.",2420,,,,,,N,33,,,,O
+N038,Y,"Australian Territories, n.e.s.",210,,,,,,N,38,,,,O
+N177,Y,"Commonwealth of Independent States, n.e.s.",720,,,,01/01/1992 00:00,,N,177,,,,O
+N227,Y,"Other Europe, n.e.s.",2450,,,,,,N,227,,,,O
+N228,Y,"European Union, n.e.s.",1260,,,,,,N,228,,,,O
+N486,Y,Other MFN origins,2460,,,,,,N,486,,,,O
+N556,Y,New Zealand Territories n.e.s.,2250,,,,,,N,556,,,,O
+N579,Y,"Other Oceania, n.e.s.",2480,,,,,,N,579,,,,O
+N848,Y,"U.S. Oceania, n.e.s.",3290,,,,,,N,848,,,,O
+N898,Y,Unspecified,3400,,,,,,N,898,,,,O
+N990,Y,"Other Countries, n.e.s.",2430,,,,,,N,990,,,,O
+R953,Y,Western Africa,3560,,,,,,R,953,,,,O
+R954,Y,Central Africa,570,,,,,,R,954,,,,O
+R955,Y,Eastern Africa,1100,,,,,,R,955,,,,O
+R956,Y,Southern Africa,2960,,,,,,R,956,,,,O
+S906,Y,Other Europe,2440,,,,,,S,906,,,,O
+S911,Y,Commonwealth of Independent States in Asia,740,,,,,,S,911,,,,O
+S912,Y,Commonwealth of Independent States in Europe,750,,,,,,S,912,,,,O
+S933,Y,Central America,600,,,,,,S,933,,,,O
+S934,Y,South America,2900,,,,,,S,934,,,,O
+S935,Y,Caribbean,540,,,,,,S,935,,,,O
+S951,Y,North Africa,2310,,,,,,S,951,,,,O
+S952,Y,Sub-Saharan Africa,3030,,,,,,S,952,,,,O
+S967,Y,Mediterranean Middle East,2040,,,,,,S,967,,,,O
+S968,Y,Other Middle East,2470,,,,,,S,968,,,,O
+S971,Y,West Asia,3550,,,,,,S,971,,,,O
+S972,Y,East Asia,1090,,,,,,S,972,,,,O
+S973,Y,Oceania,2380,,,,,,S,973,,,,O
+U918,Y,European Union,1240,EEC,CE,,25/06/1994 00:00,,U,918,Y,,Y,Q
+U925,Y,"Customs Union between the Russian Federation, Belarus, Kazakhstan, Armenia and Kyrgyz Republic",860,,,,,,U,925,,,,O
+U960,Y,Southern African Customs Union (SACU),2970,,,,,,U,960,,,,O
+X895,Y,Free Zones,1320,,,,01/01/1996 00:00,,X,895,,,,O
+X896,Y,Warehouses,3520,,,,01/01/1996 00:00,,X,896,,,,O
+X897,Y,Re-Imports,2630,,,,01/01/1996 00:00,,X,897,,,,O
+A000,Y,Total,3210,,,,,,A,0,,,,O
+A900,Y,WTO Members,3600,,,,,,A,900,,,,O
+A901,Y,WTO Acceding governments,3590,,,,,,A,901,,,,O
+A902,Y,WTO Observer governments,3610,,,,,,A,902,,,,O
+A903,Y,Members that went through the WTO accession process,3620,,,,,,A,903,,,,O
+A985,Y,G-20,1390,,,,,,A,985,,,,O
+A989,Y,Plurilateral Agreement on Government Procurement (GPA),2585,,,,,,A,989,,,,O
+A991,Y,"Small, Vulnerable Economies for the Trade Facilitation Agreement",1831,,,,,,A,991,,,,O
+A992,Y,Landlocked developing countries for the Trade Facilitation Agreement,1832,,,,,,A,992,,,,O
+A993,Y,Total for IMS TBT,3211,,,,,,A,993,,,,O
+A994,Y,Developed Countries including CIS,950,,,,,,A,994,,,,O
+A995,Y,Developed Countries,940,,,,,,A,995,,,,O
+A996,Y,Developing Countries including CIS,970,,,,,,A,996,,,,O
+A997,Y,Least-developed countries,1830,,,,,,A,997,,,,O
+A998,Y,Developing Countries excluding CIS,960,,,,,,A,998,,,,O
+C004,Y,Afghanistan,10,AFG,AF,4,,,C,4,,,,O
+C008,Y,Albania,40,ALB,AL,8,,,C,8,,,,O
+C010,Y,Antarctica,120,ATA,AQ,10,,,C,10,,,,O
+C012,Y,Algeria,50,DZA,DZ,12,,,C,12,,,,O
+C016,Y,American Samoa,70,ASM,AS,16,,,C,16,,,,O
+C020,Y,Andorra,90,AND,AD,20,,,C,20,,,,O
+C024,Y,Angola,100,AGO,AO,24,,,C,24,,,,O
+C028,Y,Antigua and Barbuda,130,ATG,AG,28,,,C,28,,,,O
+C031,Y,Azerbaijan,230,AZE,AZ,31,01/01/1992 00:00,,C,31,,,,O
+C032,Y,Argentina,140,ARG,AR,32,,,C,32,Y,,,G
+C036,Y,Australia,200,AUS,AU,36,,,C,36,Y,,,G
+C040,Y,Austria,220,AUT,AT,40,,,C,40,,Y,,O
+C044,Y,Bahamas,250,BHS,BS,44,,,C,44,,,,O
+C048,Y,"Bahrain, Kingdom of",260,BHR,BH,48,,,C,48,,,,O
+C050,Y,Bangladesh,270,BGD,BD,50,01/01/1972 00:00,,C,50,,,,O
+C051,Y,Armenia,150,ARM,AM,51,01/01/1992 00:00,,C,51,,,,O
+C052,Y,Barbados,280,BRB,BB,52,,,C,52,,,,O
+C056,Y,Belgium,300,BEL,BE,56,01/01/1996 00:00,,C,56,,Y,,O
+C060,Y,Bermuda,350,BMU,BM,60,,,C,60,,,,O
+C064,Y,Bhutan,360,BTN,BT,64,,,C,64,,,,O
+C068,Y,"Bolivia, Plurinational State of",380,BOL,BO,68,,,C,68,,,,O
+C070,Y,Bosnia and Herzegovina,390,BIH,BA,70,01/01/1992 00:00,,C,70,,,,O
+C072,Y,Botswana,400,BWA,BW,72,,,C,72,,,,O
+C074,Y,Bouvet Island,410,BVT,BV,74,,,C,74,,,,O
+C076,Y,Brazil,420,BRA,BR,76,,,C,76,Y,,,G
+C084,Y,Belize,320,BLZ,BZ,84,,,C,84,,,,O
+C086,Y,British Indian Ocean Territory,430,IOT,IO,86,,,C,86,,,,O
+C090,Y,Solomon Islands,2860,SLB,SB,90,,,C,90,,,,O
+C092,Y,"Virgin Islands, British",3490,VGB,VG,92,,,C,92,,,,O
+C096,Y,Brunei Darussalam,440,BRN,BN,96,,,C,96,,,,O
+C100,Y,Bulgaria,450,BGR,BG,100,,,C,100,,Y,,O
+C104,Y,Myanmar,2160,MMR,MM,104,,,C,104,,,,O
+C108,Y,Burundi,480,BDI,BI,108,,,C,108,,,,O
+C112,Y,Belarus,290,BLR,BY,112,01/01/1992 00:00,,C,112,,,,O
+C116,Y,Cambodia,490,KHM,KH,116,,,C,116,,,,O
+C120,Y,Cameroon,500,CMR,CM,120,,,C,120,,,,O
+C124,Y,Canada,510,CAN,CA,124,,,C,124,Y,,Y,Q
+C132,Y,Cabo Verde,530,CPV,CV,132,,,C,132,,,,O
+C136,Y,Cayman Islands,560,CYM,KY,136,,,C,136,,,,O
+C140,Y,Central African Republic,590,CAF,CF,140,,,C,140,,,,O
+C144,Y,Sri Lanka,3020,LKA,LK,144,01/01/1973 00:00,,C,144,,,,O
+C146,Y,Ceuta and Melilla,630,,,,,,C,146,,,,O
+C148,Y,Chad,650,TCD,TD,148,,,C,148,,,,O
+C152,Y,Chile,660,CHL,CL,152,,,C,152,,,,O
+C156,Y,China,670,CHN,CN,156,,,C,156,Y,,,G
+C158,Y,Chinese Taipei,3110,CHT,CT,158,,,C,158,,,,O
+C162,Y,Christmas Island,680,CXR,CX,162,,,C,162,,,,O
+C166,Y,Cocos (Keeling) Islands,690,CCK,CC,166,,,C,166,,,,O
+C170,Y,Colombia,700,COL,CO,170,,,C,170,,,,O
+C174,Y,Comoros,760,COM,KM,174,,,C,174,,,,O
+C175,Y,Mayotte,2030,MYT,YT,175,01/01/1996 00:00,,C,175,,,,O
+C178,Y,Congo,770,COG,CG,178,,,C,178,,,,O
+C180,Y,Democratic Republic of the Congo,920,COD,CD,180,,,C,180,,,,O
+C184,Y,Cook Islands,780,COK,CK,184,,,C,184,,,,O
+C188,Y,Costa Rica,800,CRI,CR,188,,,C,188,,,,O
+C191,Y,Croatia,820,HRV,HR,191,01/01/1992 00:00,,C,191,,Y,,O
+C192,Y,Cuba,830,CUB,CU,192,,,C,192,,,,O
+C196,Y,Cyprus,870,CYP,CY,196,,,C,196,,Y,,O
+C203,Y,Czech Republic,890,CZE,CZ,203,01/01/1993 00:00,,C,203,,Y,,O
+C204,Y,Benin,340,BEN,BJ,204,,,C,204,,,,O
+C208,Y,Denmark,930,DNK,DK,208,,,C,208,,Y,,O
+C212,Y,Dominica,990,DMA,DM,212,,,C,212,,,,O
+C214,Y,Dominican Republic,1000,DOM,DO,214,,,C,214,,,,O
+C218,Y,Ecuador,1110,ECU,EC,218,,,C,218,,,,O
+C222,Y,El Salvador,1130,SLV,SV,222,,,C,222,,,,O
+C226,Y,Equatorial Guinea,1140,GNQ,GQ,226,,,C,226,,,,O

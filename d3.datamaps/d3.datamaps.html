@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html class="ocks-org do-not-copy">
+<head>
+  <meta charset="utf-8">
+  <!-- <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="https://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script> -->
+  <!-- <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script> -->
+
+  <script src="./d3.datamaps.lib/d3.v3.min.js"></script>
+  <script src="./d3.datamaps.lib/topojson.v1.min.js"></script>
+  <script src="./d3.datamaps.lib/datamaps.world.min.js"></script>
+  <style>
+    @import url(https://bost.ocks.org/mike/style.css?aea6f0a);
+  </style>
+
+</head>
+<body>
+<h2>DataMaps</h2>
+<div id="container" style="position: relative; width: 1000px; height: 600px;"></div>
+
+<script>
+var bucketLimits = [2,5,10,20,30,50,100,200];
+
+var colorschemeOfThisMap = ['#00a6ca','#00ccbc','#90eb9d','#f9d057','#f29e2e','#e76818','#d7191c']
+
+var newLabels = {
+                  'AFG':'Afghanistan', 'ALB':'Albania', 'BLR':'Belarus',
+                  'GEO':'Georgia', 'IRN':'Iran', 'KAZ':'Kazakhstan','KGZ':'Kyrgyz Republic',
+                  'MDA':'Moldova, Republic of','RUS':'Russian Federation','MKD':'The FYR of Macedonia',
+                  'TUR':'Turkey','UKR':'Ukraine',
+                  'BTN':' ', 'BGD':' ', 'NPL':' ', 'IND':' ', 'ARE':' ', 'QAT':' ', 'KWT':' ', 'SYR':' ', 'JOR':' ', 'PAK':' ',
+                  'LBY':' ', 'EGY':' ', 'SAU':' ', 'IRQ':' ', 'UZB':' ', 'TKM':' ', 'TJK':' ', 'LVA':' ', 'LTU':' ',
+                  'POL':' ', 'CZE':' ', 'SVK':' ', 'HUN':' ', 'ROU':' ', 'BGR':' ', 'SRB':' ', 'ARM':' ', 'AZE':' ',
+                  'CYP':' ', 'LBN':' ', 'BIH':' ', 'GRC':' ', 'ISR':' ', 'MNE':' ', '-99':' ', 'PSE':' ', 'HRV':' ',
+                };
+
+d3.csv("./d3.datamaps.csv", function(error, csvdata1) {
+    for (var i=0;i<csvdata1.length;i++) {
+      csvdata1[i].fillKey = {};
+      if (csvdata1[i].datavalue < bucketLimits[0]) {  csvdata1[i].fillKey = '0'; }
+      if (csvdata1[i].datavalue >= bucketLimits[0] && csvdata1[i].datavalue < bucketLimits[1]) {  csvdata1[i].fillKey = '1'; }
+      if (csvdata1[i].datavalue >= bucketLimits[1] && csvdata1[i].datavalue < bucketLimits[2]) {  csvdata1[i].fillKey = '2'; }
+      if (csvdata1[i].datavalue >= bucketLimits[2] && csvdata1[i].datavalue < bucketLimits[3]) {  csvdata1[i].fillKey = '3'; }
+      if (csvdata1[i].datavalue >= bucketLimits[3] && csvdata1[i].datavalue < bucketLimits[4]) {  csvdata1[i].fillKey = '4'; }
+      if (csvdata1[i].datavalue >= bucketLimits[4] && csvdata1[i].datavalue < bucketLimits[5]) {  csvdata1[i].fillKey = '5'; }
+      if (csvdata1[i].datavalue >= bucketLimits[5] ) {  csvdata1[i].fillKey = '6'; }
+      csvdata1[csvdata1[i].ISO] = csvdata1[i] ;
+      //console.log(csvdata1[i]);
+      delete  csvdata1[i].ISO;
+      delete  csvdata1[i];
+    }
+    myMap2.updateChoropleth(csvdata1);
+  }
+);
+
+var myMap2 = new Datamap( {
+  scope: 'world',
+  projection: 'mercator',
+  // projection: 'equirectangular',
+  element: document.getElementById('container'),
+  geographyConfig: {
+                      borderWidth: 1,
+                      // borderColor: '#4F4F4F',
+                      borderColor: '#FFF',
+                      // highlightBorderColor: 'black',
+                      // highlightBorderWidth: 0.5,
+                      // highlightFillColor: '#FFEC38',
+                      // highlightOnHover: true,
+                      // popupOnHover: true, //disable the popup while hovering
+                      popupTemplate: function(geography, csvdata1) {
+                          if ( !csvdata1 ) return;  // makes sure that the tooltip is shown only if there is data
+                          return '<div class="hoverinfo">' + geography.properties.name + '<br> Tariff <strong>' +  csvdata1.datavalue + '%</strong>';},
+                      },
+  fills: {
+      '0': colorschemeOfThisMap[0],
+      '1': colorschemeOfThisMap[1],
+      '2': colorschemeOfThisMap[2],
+      '3': colorschemeOfThisMap[3],
+      '4': colorschemeOfThisMap[4],
+      '5': colorschemeOfThisMap[5],
+      '6': colorschemeOfThisMap[6],
+      defaultFill: "#DDD"
+  },
+  data: {},
+
+  // Zoom map and select center
+  setProjection: function(element) {
+  var projection = d3.geo.mercator()
+    .center([55, 43])
+    .scale(750)
+    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+
+  var path = d3.geo.path().projection(projection);
+  return {path: path, projection: projection};
+  }
+
+});
+
+var legend_params = {
+  // legendTitle: "Some Test Data",
+  labels: {
+    '0': '[0,2]',
+    '1': '(2,5]',
+    '2': '(5,10]',
+    '3': '(10,20]',
+    '4': '(20,30]',
+    '5': '(30,50]',
+    '6': '(50.-)',
+  },
+};
+myMap2.legend(legend_params);
+myMap2.labels({'customLabelText': newLabels});
+</script>
+</body>
+</html>

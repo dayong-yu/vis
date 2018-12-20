@@ -1,0 +1,445 @@
+reporter,partner,value
+"Argentina","Austria",1
+"Argentina","Brazil",10
+"Argentina","Chile",3
+"Argentina","China",53
+"Argentina","Chinese Taipei",4
+"Argentina","Colombia",1
+"Argentina","Finland",1
+"Argentina","France",1
+"Argentina","Germany",2
+"Argentina","India",3
+"Argentina","Indonesia",2
+"Argentina","Korea, Republic of",2
+"Argentina","Mexico",1
+"Argentina","Peru",3
+"Argentina","Philippines",1
+"Argentina","Spain",1
+"Argentina","Sweden",1
+"Argentina","Thailand",4
+"Argentina","United States of America",4
+"Australia","Brazil",1
+"Australia","China",17
+"Australia","Chinese Taipei",9
+"Australia","Finland",1
+"Australia","Greece",1
+"Australia","India",3
+"Australia","Indonesia",5
+"Australia","Italy",3
+"Australia","Japan",4
+"Australia","Korea, Republic of",10
+"Australia","Malaysia",5
+"Australia","Philippines",3
+"Australia","Romania",1
+"Australia","Russian Federation",1
+"Australia","Singapore",2
+"Australia","Spain",1
+"Australia","Sweden",1
+"Australia","Thailand",9
+"Australia","Turkey",2
+"Australia","United Arab Emirates",1
+"Australia","Viet Nam",2
+"Brazil","Argentina",3
+"Brazil","Australia",1
+"Brazil","Bahrain, Kingdom of",1
+"Brazil","Bangladesh",1
+"Brazil","Belgium",3
+"Brazil","Canada",2
+"Brazil","Chile",2
+"Brazil","China",57
+"Brazil","Chinese Taipei",10
+"Brazil","Colombia",1
+"Brazil","Egypt",2
+"Brazil","European Union",2
+"Brazil","Finland",3
+"Brazil","France",3
+"Brazil","Germany",13
+"Brazil","Hong Kong, China",2
+"Brazil","Hungary",2
+"Brazil","India",6
+"Brazil","Indonesia",2
+"Brazil","Israel",1
+"Brazil","Italy",3
+"Brazil","Japan",1
+"Brazil","Korea, Republic of",12
+"Brazil","Malaysia",2
+"Brazil","Mexico",7
+"Brazil","Netherlands",2
+"Brazil","Pakistan",1
+"Brazil","Paraguay",1
+"Brazil","Peru",2
+"Brazil","Portugal",1
+"Brazil","Romania",1
+"Brazil","Russian Federation",4
+"Brazil","Saudi Arabia, Kingdom of",1
+"Brazil","Singapore",1
+"Brazil","South Africa",5
+"Brazil","Spain",1
+"Brazil","Sweden",2
+"Brazil","Thailand",4
+"Brazil","Turkey",2
+"Brazil","Ukraine",3
+"Brazil","United Arab Emirates",3
+"Brazil","United Kingdom",1
+"Brazil","United States of America",14
+"Brazil","Uruguay",1
+"Brazil","Viet Nam",3
+"Canada","Brazil",3
+"Canada","Bulgaria",1
+"Canada","China",20
+"Canada","Chinese Taipei",4
+"Canada","Czech Republic",1
+"Canada","Denmark",1
+"Canada","Greece",1
+"Canada","India",4
+"Canada","Indonesia",2
+"Canada","Italy",1
+"Canada","Japan",2
+"Canada","Korea, Republic of",8
+"Canada","Mexico",1
+"Canada","Oman",1
+"Canada","Philippines",1
+"Canada","Romania",1
+"Canada","Russian Federation",1
+"Canada","Thailand",2
+"Canada","Turkey",3
+"Canada","Ukraine",2
+"Canada","United Arab Emirates",1
+"Canada","United States of America",4
+"Canada","Viet Nam",1
+"Chile","Argentina",2
+"Chile","Mexico",1
+"China","Brazil",1
+"China","Canada",1
+"China","Chinese Taipei",8
+"China","European Union",17
+"China","France",1
+"China","India",5
+"China","Italy",1
+"China","Japan",22
+"China","Korea, Republic of",11
+"China","Russian Federation",3
+"China","Singapore",4
+"China","Thailand",2
+"China","Turkey",1
+"China","United States of America",22
+"Chinese Taipei","Brazil",1
+"Chinese Taipei","China",7
+"Chinese Taipei","India",1
+"Chinese Taipei","Indonesia",1
+"Chinese Taipei","Korea, Republic of",3
+"Chinese Taipei","Ukraine",1
+"Colombia","China",22
+"Colombia","India",2
+"Colombia","Korea, Republic of",2
+"Colombia","Mexico",2
+"Colombia","Venezuela, Bolivarian Republic of",1
+"Costa Rica","Brazil",1
+"Costa Rica","Chile",1
+"Dominican Republic","China",1
+"Dominican Republic","Portugal",1
+"Dominican Republic","Spain",1
+"Dominican Republic","Turkey",1
+"Egypt","China",6
+"Egypt","Chinese Taipei",1
+"Egypt","India",3
+"Egypt","Korea, Republic of",1
+"Egypt","Malaysia",1
+"Egypt","Oman",1
+"Egypt","Pakistan",2
+"Egypt","Thailand",1
+"Egypt","Turkey",2
+"Egypt","United Arab Emirates",1
+"European Union","Argentina",1
+"European Union","Belarus",2
+"European Union","Brazil",1
+"European Union","Canada",1
+"European Union","China",61
+"European Union","Chinese Taipei",6
+"European Union","Georgia",1
+"European Union","India",8
+"European Union","Indonesia",7
+"European Union","Japan",1
+"European Union","Korea, Republic of",5
+"European Union","Lao People's Democratic Republic",1
+"European Union","Malaysia",7
+"European Union","Mexico",1
+"European Union","Moldova, Republic of",1
+"European Union","Morocco",1
+"European Union","Philippines",2
+"European Union","Russian Federation",7
+"European Union","South Africa",1
+"European Union","Sri Lanka",2
+"European Union","Thailand",5
+"European Union","Tunisia",1
+"European Union","Turkey",2
+"European Union","Ukraine",2
+"European Union","United States of America",3
+"European Union","Viet Nam",1
+"Guatemala","China",1
+"Honduras","El Salvador",1
+"Honduras","Guatemala",1
+"Honduras","United States of America",1
+"India","Australia",2
+"India","Bangladesh",2
+"India","Brazil",1
+"India","Canada",1
+"India","China",110
+"India","Chinese Taipei",25
+"India","Egypt",1
+"India","European Union",26
+"India","Hong Kong, China",2
+"India","Indonesia",11
+"India","Iran",7
+"India","Israel",3
+"India","Japan",10
+"India","Kenya",1
+"India","Korea, Republic of",26
+"India","Malaysia",11
+"India","Mexico",2
+"India","Nepal",1
+"India","Norway",2
+"India","Pakistan",3
+"India","Philippines",1
+"India","Qatar",1
+"India","Russian Federation",9
+"India","Saudi Arabia, Kingdom of",6
+"India","Singapore",5
+"India","South Africa",5
+"India","Sri Lanka",1
+"India","Switzerland",2
+"India","Thailand",22
+"India","Turkey",1
+"India","Ukraine",3
+"India","United Arab Emirates",4
+"India","United States of America",13
+"India","Viet Nam",7
+"Indonesia","Australia",1
+"Indonesia","Belarus",1
+"Indonesia","China",10
+"Indonesia","Chinese Taipei",5
+"Indonesia","India",4
+"Indonesia","Japan",1
+"Indonesia","Kazakhstan",1
+"Indonesia","Korea, Republic of",5
+"Indonesia","Malaysia",6
+"Indonesia","Philippines",1
+"Indonesia","Russian Federation",1
+"Indonesia","Singapore",2
+"Indonesia","Sri Lanka",1
+"Indonesia","Thailand",5
+"Indonesia","Turkey",1
+"Indonesia","Ukraine",1
+"Indonesia","Viet Nam",2
+"Israel","Germany",1
+"Israel","Turkey",1
+"Japan","China",3
+"Japan","Korea, Republic of",1
+"Japan","South Africa",1
+"Japan","Spain",1
+"Korea, Republic of","Canada",1
+"Korea, Republic of","China",11
+"Korea, Republic of","Chinese Taipei",1
+"Korea, Republic of","France",1
+"Korea, Republic of","India",5
+"Korea, Republic of","Indonesia",1
+"Korea, Republic of","Japan",6
+"Korea, Republic of","Malaysia",4
+"Korea, Republic of","Singapore",1
+"Korea, Republic of","Spain",1
+"Korea, Republic of","Thailand",3
+"Korea, Republic of","United States of America",3
+"Malaysia","China",8
+"Malaysia","Chinese Taipei",3
+"Malaysia","Finland",1
+"Malaysia","France",1
+"Malaysia","Hong Kong, China",1
+"Malaysia","Indonesia",5
+"Malaysia","Japan",1
+"Malaysia","Korea, Republic of",7
+"Malaysia","Thailand",3
+"Malaysia","Viet Nam",4
+"Mexico","Argentina",1
+"Mexico","Brazil",3
+"Mexico","Chile",1
+"Mexico","China",31
+"Mexico","Chinese Taipei",1
+"Mexico","France",1
+"Mexico","Germany",1
+"Mexico","India",2
+"Mexico","Japan",1
+"Mexico","Kazakhstan",1
+"Mexico","Korea, Republic of",3
+"Mexico","Portugal",1
+"Mexico","Romania",1
+"Mexico","Russian Federation",4
+"Mexico","Spain",2
+"Mexico","Ukraine",4
+"Mexico","United Kingdom",1
+"Mexico","United States of America",10
+"Morocco","China",2
+"Morocco","Denmark",1
+"Morocco","Egypt",1
+"Morocco","European Union",2
+"Morocco","Mexico",1
+"Morocco","Portugal",1
+"Morocco","Spain",1
+"Morocco","Thailand",1
+"Morocco","Turkey",2
+"Morocco","United States of America",1
+"New Zealand","China",1
+"New Zealand","Greece",1
+"New Zealand","Malaysia",1
+"New Zealand","South Africa",1
+"New Zealand","Spain",1
+"New Zealand","Thailand",2
+"Pakistan","Bangladesh",1
+"Pakistan","Belgium",1
+"Pakistan","Brazil",2
+"Pakistan","China",14
+"Pakistan","Chinese Taipei",2
+"Pakistan","India",4
+"Pakistan","Indonesia",4
+"Pakistan","Iran",1
+"Pakistan","Italy",1
+"Pakistan","Japan",1
+"Pakistan","Kenya",1
+"Pakistan","Korea, Republic of",5
+"Pakistan","Malaysia",1
+"Pakistan","Oman",1
+"Pakistan","Saudi Arabia, Kingdom of",1
+"Pakistan","Switzerland",1
+"Pakistan","Thailand",3
+"Pakistan","Turkey",1
+"Pakistan","Ukraine",1
+"Pakistan","United Arab Emirates",1
+"Peru","Argentina",1
+"Peru","China",4
+"Peru","India",1
+"Peru","Pakistan",1
+"Peru","United States of America",1
+"Philippines","Turkey",1
+"Russian Federation","China",9
+"Russian Federation","Germany",1
+"Russian Federation","India",1
+"Russian Federation","Italy",1
+"Russian Federation","Turkey",1
+"Russian Federation","Ukraine",6
+"Saudi Arabia, Kingdom of","Korea, Republic of",1
+"South Africa","Belgium",1
+"South Africa","Brazil",2
+"South Africa","China",10
+"South Africa","Chinese Taipei",2
+"South Africa","Germany",1
+"South Africa","India",4
+"South Africa","Indonesia",3
+"South Africa","Korea, Republic of",1
+"South Africa","Malaysia",1
+"South Africa","Netherlands",2
+"South Africa","Pakistan",1
+"South Africa","Thailand",1
+"South Africa","United Kingdom",1
+"South Africa","United States of America",2
+"Thailand","Algeria",1
+"Thailand","Argentina",1
+"Thailand","Brazil",1
+"Thailand","China",15
+"Thailand","Chinese Taipei",6
+"Thailand","India",1
+"Thailand","Indonesia",1
+"Thailand","Iran",1
+"Thailand","Japan",2
+"Thailand","Kazakhstan",1
+"Thailand","Korea, Republic of",7
+"Thailand","Malaysia",1
+"Thailand","Romania",1
+"Thailand","Russian Federation",1
+"Thailand","Slovak Republic",1
+"Thailand","South Africa",1
+"Thailand","Turkey",1
+"Thailand","Ukraine",1
+"Thailand","Venezuela, Bolivarian Republic of",1
+"Thailand","Viet Nam",4
+"Trinidad and Tobago","China",1
+"Turkey","Brazil",1
+"Turkey","Bulgaria",3
+"Turkey","Canada",1
+"Turkey","China",63
+"Turkey","Chinese Taipei",12
+"Turkey","Egypt",2
+"Turkey","France",1
+"Turkey","Germany",2
+"Turkey","Hong Kong, China",1
+"Turkey","India",10
+"Turkey","Indonesia",11
+"Turkey","Israel",2
+"Turkey","Italy",1
+"Turkey","Japan",1
+"Turkey","Korea, Republic of",7
+"Turkey","Malaysia",11
+"Turkey","Pakistan",2
+"Turkey","Philippines",2
+"Turkey","Poland",1
+"Turkey","Romania",3
+"Turkey","Russian Federation",5
+"Turkey","Saudi Arabia, Kingdom of",1
+"Turkey","Serbia",1
+"Turkey","Slovak Republic",1
+"Turkey","Sri Lanka",1
+"Turkey","Thailand",9
+"Turkey","Ukraine",2
+"Turkey","United States of America",4
+"Turkey","Viet Nam",10
+"Ukraine","Belarus",2
+"Ukraine","China",4
+"Ukraine","Kyrgyz Republic",1
+"Ukraine","Russian Federation",11
+"United States of America","Argentina",1
+"United States of America","Australia",3
+"United States of America","Austria",1
+"United States of America","Belarus",1
+"United States of America","Belgium",2
+"United States of America","Brazil",10
+"United States of America","Canada",4
+"United States of America","Chile",1
+"United States of America","China",114
+"United States of America","Chinese Taipei",21
+"United States of America","France",3
+"United States of America","Germany",5
+"United States of America","India",20
+"United States of America","Indonesia",9
+"United States of America","Iran",1
+"United States of America","Italy",9
+"United States of America","Japan",18
+"United States of America","Kazakhstan",1
+"United States of America","Korea, Republic of",20
+"United States of America","Latvia",1
+"United States of America","Malaysia",4
+"United States of America","Mexico",11
+"United States of America","Moldova, Republic of",2
+"United States of America","Netherlands",2
+"United States of America","Oman",3
+"United States of America","Pakistan",1
+"United States of America","Philippines",1
+"United States of America","Poland",1
+"United States of America","Portugal",1
+"United States of America","Romania",1
+"United States of America","Russian Federation",5
+"United States of America","South Africa",4
+"United States of America","Spain",3
+"United States of America","Sweden",1
+"United States of America","Thailand",7
+"United States of America","Trinidad and Tobago",2
+"United States of America","Turkey",8
+"United States of America","Ukraine",7
+"United States of America","United Arab Emirates",3
+"United States of America","United Kingdom",2
+"United States of America","Venezuela, Bolivarian Republic of",1
+"United States of America","Viet Nam",10
+"Uruguay","Brazil",1
+"Uruguay","China",1
+"Viet Nam","China",2
+"Viet Nam","Chinese Taipei",1
+"Viet Nam","Indonesia",1
+"Viet Nam","Korea, Republic of",1
+"Viet Nam","Malaysia",1

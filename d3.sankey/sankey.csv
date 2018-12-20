@@ -1,0 +1,159 @@
+,source,target,value
+0,Argentina, Brazil,10
+1,Australia, Brazil,1
+2,Canada, Brazil,3
+3,China, Brazil,1
+4,European Union, Brazil,1
+5,India, Brazil,1
+6,Mexico, Brazil,3
+7,South Africa, Brazil,2
+8,Turkey, Brazil,1
+9,United States of America, Brazil,10
+10,Argentina, China,53
+11,Australia, China,17
+12,Brazil, China,57
+13,Canada, China,20
+14,European Union, China,61
+15,India, China,110
+16,Indonesia, China,10
+17,Japan, China,3
+18,"Korea, Republic of", China,11
+19,Mexico, China,31
+20,Russian Federation, China,9
+21,South Africa, China,10
+22,Turkey, China,63
+23,United States of America, China,114
+24,Argentina, France,1
+25,Brazil, France,3
+26,China, France,1
+27,"Korea, Republic of", France,1
+28,Mexico, France,1
+29,Turkey, France,1
+30,United States of America, France,3
+31,Argentina, Germany,2
+32,Brazil, Germany,13
+33,Mexico, Germany,1
+34,Russian Federation, Germany,1
+35,South Africa, Germany,1
+36,Turkey, Germany,2
+37,United States of America, Germany,5
+38,Argentina, India,3
+39,Australia, India,3
+40,Brazil, India,6
+41,Canada, India,4
+42,China, India,5
+43,European Union, India,8
+44,Indonesia, India,4
+45,"Korea, Republic of", India,5
+46,Mexico, India,2
+47,Russian Federation, India,1
+48,South Africa, India,4
+49,Turkey, India,10
+50,United States of America, India,20
+51,Argentina, Indonesia,2
+52,Australia, Indonesia,5
+53,Brazil, Indonesia,2
+54,Canada, Indonesia,2
+55,European Union, Indonesia,7
+56,India, Indonesia,11
+57,"Korea, Republic of", Indonesia,1
+58,South Africa, Indonesia,3
+59,Turkey, Indonesia,11
+60,United States of America, Indonesia,9
+61,Argentina," Korea, Republic of",2
+62,Australia," Korea, Republic of",10
+63,Brazil," Korea, Republic of",12
+64,Canada," Korea, Republic of",8
+65,China," Korea, Republic of",11
+66,European Union," Korea, Republic of",5
+67,India," Korea, Republic of",26
+68,Indonesia," Korea, Republic of",5
+69,Japan," Korea, Republic of",1
+70,Mexico," Korea, Republic of",3
+71,"Saudi Arabia, Kingdom of"," Korea, Republic of",1
+72,South Africa," Korea, Republic of",1
+73,Turkey," Korea, Republic of",7
+74,United States of America," Korea, Republic of",20
+75,Argentina, Mexico,1
+76,Brazil, Mexico,7
+77,Canada, Mexico,1
+78,European Union, Mexico,1
+79,India, Mexico,2
+80,United States of America, Mexico,11
+81,Argentina, United States of America,4
+82,Brazil, United States of America,14
+83,Canada, United States of America,4
+84,China, United States of America,22
+85,European Union, United States of America,3
+86,India, United States of America,13
+87,"Korea, Republic of", United States of America,3
+88,Mexico, United States of America,10
+89,South Africa, United States of America,2
+90,Turkey, United States of America,4
+91,Australia, Italy,3
+92,Brazil, Italy,3
+93,Canada, Italy,1
+94,China, Italy,1
+95,Russian Federation, Italy,1
+96,Turkey, Italy,1
+97,United States of America, Italy,9
+98,Australia, Japan,4
+99,Brazil, Japan,1
+100,Canada, Japan,2
+101,China, Japan,22
+102,European Union, Japan,1
+103,India, Japan,10
+104,Indonesia, Japan,1
+105,"Korea, Republic of", Japan,6
+106,Mexico, Japan,1
+107,Turkey, Japan,1
+108,United States of America, Japan,18
+109,Australia, Russian Federation,1
+110,Brazil, Russian Federation,4
+111,Canada, Russian Federation,1
+112,China, Russian Federation,3
+113,European Union, Russian Federation,7
+114,India, Russian Federation,9
+115,Indonesia, Russian Federation,1
+116,Mexico, Russian Federation,4
+117,Turkey, Russian Federation,5
+118,United States of America, Russian Federation,5
+119,Australia, Turkey,2
+120,Brazil, Turkey,2
+121,Canada, Turkey,3
+122,China, Turkey,1
+123,European Union, Turkey,2
+124,India, Turkey,1
+125,Indonesia, Turkey,1
+126,Russian Federation, Turkey,1
+127,United States of America, Turkey,8
+128,Brazil, Argentina,3
+129,European Union, Argentina,1
+130,Mexico, Argentina,1
+131,United States of America, Argentina,1
+132,Brazil, Australia,1
+133,India, Australia,2
+134,Indonesia, Australia,1
+135,United States of America, Australia,3
+136,Brazil, Canada,2
+137,China, Canada,1
+138,European Union, Canada,1
+139,India, Canada,1
+140,"Korea, Republic of", Canada,1
+141,Turkey, Canada,1
+142,United States of America, Canada,4
+143,Brazil, European Union,2
+144,China, European Union,17
+145,India, European Union,26
+146,Brazil," Saudi Arabia, Kingdom of",1
+147,India," Saudi Arabia, Kingdom of",6
+148,Turkey," Saudi Arabia, Kingdom of",1
+149,Brazil, South Africa,5
+150,European Union, South Africa,1
+151,India, South Africa,5
+152,Japan, South Africa,1
+153,United States of America, South Africa,4
+154,Brazil, United Kingdom,1
+155,Mexico, United Kingdom,1
+156,South Africa, United Kingdom,1
+157,United States of America, United Kingdom,2
